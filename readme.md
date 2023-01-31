@@ -1,5 +1,7 @@
 ![preview](https://github.com/YazdanZ/McHacks/blob/main/Pics/website.png)
 
+### [Try it out](https://daviddeng132.wixsite.com/triallink) / [DevPost](https://devpost.com/software/triallink)   
+
 ## Inspiration
 We got the idea when we ask ourselves the question: how can we better make use of the large amounts of data in the world to meet people's privacy and healthcare needs? We all recall being at the doctor's office and seeing the doctor write long written notes. We then came up with a potentially impactful idea that is rewarding to create, both conceptually and technically.
 
